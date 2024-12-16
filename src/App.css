@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     font-family: Arial, sans-serif;
     background-color: black;
   }
@@ -18,3 +19,24 @@ body {
   button:hover {
     background-color: #45a049;
   }
+=======
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+>>>>>>> 6b195294505fad13a58db03af0dc8b9d27f53650
