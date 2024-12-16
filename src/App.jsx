@@ -34,7 +34,7 @@ const App = () => {
         TO-DO LIST
       </h1>
       <TaskForm addTask={addTask} />
-      <div className="h-[68vh] mt-5 w-full bg-slate-800 rounded-md overflow-hidden">
+      <div className="h-[68vh] mt-5 w-full bg-slate-800 rounded-md">
         <TaskList
           tasks={tasks}
           toggleTaskCompletion={toggleTaskCompletion}
