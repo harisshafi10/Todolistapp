@@ -29,7 +29,7 @@ const App = () => {
   };
 
   return (
-    <div className="mt-5 rounded-2xl bg-slate-900 w-full max-w-[400px] min-h-[90vh] flex flex-col items-center mx-auto text-slate-300 px-4 sm:px-6 *:selection:bg-yellow-500">
+    <div className="mt-5 rounded-2xl bg-slate-900 w-full max-w-[500px] min-h-[90vh] flex flex-col items-center mx-auto text-slate-300 px-4 sm:px-6 *:selection:bg-yellow-500">
       <h1 className="font-bold mb-5 bg-slate-700 rounded-2xl w-full text-center h-10 text-2xl sm:text-4xl">
         TO-DO LIST
       </h1>
